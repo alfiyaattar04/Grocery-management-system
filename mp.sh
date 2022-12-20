@@ -391,9 +391,7 @@ done
 	
 	 
 	cat bill.txt
-	
-	
-	
+	lp bill.txt
 	
 	
 	
